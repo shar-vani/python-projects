@@ -42,11 +42,11 @@ Code Concepts Used:
  Add customization options (e.g., color, size).
  Create a GUI using Tkinter for ease of use.
  Refactoring and Best Practices
-# Modularization: Break down the code into reusable functions.
+#Modularization: Break down the code into reusable functions.
 
-# Naming Conventions: Use clear and descriptive names for variables and functions.
+Naming Conventions: Use clear and descriptive names for variables and functions.
 
-# Error Handling: Implement try-except blocks for robust code.
+#Error Handling: Implement try-except blocks for robust code.
 
-# DRY Principle: Avoid code repetition by utilizing functions effectively.
+#DRY Principle: Avoid code repetition by utilizing functions effectively.
 
