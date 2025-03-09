@@ -29,7 +29,7 @@ Features:
 Code Concepts Used:
  random module
  Conditional logic
-# Possible Enhancements:
+Possible Enhancements:
  Add score tracking across multiple rounds.
 # 4. QR Code Generator
  Objective: Create a tool to generate QR codes from user-provided input (e.g., URLs, text).
@@ -44,7 +44,7 @@ Code Concepts Used:
  Refactoring and Best Practices
 #Modularization: Break down the code into reusable functions.
 
-Naming Conventions: Use clear and descriptive names for variables and functions.
+#Naming Conventions: Use clear and descriptive names for variables and functions.
 
 #Error Handling: Implement try-except blocks for robust code.
 
